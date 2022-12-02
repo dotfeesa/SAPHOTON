@@ -1,0 +1,10 @@
+{
+  "application": {
+    "name": "qkd",
+    "description": "add description",
+    "multi_round": false,
+    "author": "etf",
+    "email": "tmarkesic1@etf.unsa.ba"
+  },
+  "remote": {}
+}
